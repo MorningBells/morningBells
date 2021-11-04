@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ## ✨ 你好，世界 <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=morningBells.morningBells" />
 
-<p align='center'>
+<!-- <p align='center'>
   <img style="max-width: 100%;" align='middle' src="https://github-readme-stats.vercel.app/api?username=morningBells&show_icons=true&theme=radical" />
-</p>  
+</p>   -->
+
+![](https://github-readme-stats.vercel.app/api?username=morningBells&show_icons=true&theme=radical)
+
+![](https://activity-graph.herokuapp.com/graph?username=morningBells&theme=github)
